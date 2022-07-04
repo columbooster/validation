@@ -40,4 +40,6 @@ public class ApiController {
         return ResponseEntity.ok(user);
     }
 
+    // custom 연습활용
+
 }
