@@ -41,5 +41,6 @@ public class ApiController {
     }
 
     // custom 연습활용
+    // 어노테이션 홀용
 
 }
